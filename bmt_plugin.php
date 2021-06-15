@@ -2,7 +2,7 @@
 
 	/*
 	Plugin Name: BMT Micro Shopping Cart
-	Version: 1.1.0
+	Version: 1.1.1
 	Plugin URI: https://www.help.bmtmicro.com/plugin
 	Author: BMT Micro, Inc.
 	Author URI: https://www.bmtmicro.com/
@@ -27,7 +27,7 @@
 	// 	}
 	// }
 
-	define('BMT_CART_VERSION', '1.1.0');
+	define('BMT_CART_VERSION', '1.1.1');
 	define('BMT_CART_FOLDER', dirname(plugin_basename(__FILE__)));
 	define('BMT_CART_PATH', plugin_dir_path(__FILE__));
 	define('BMT_CART_URL', plugins_url('', __FILE__));
