@@ -30,6 +30,6 @@ function bmt_checkout_handler($atts) {
     }
   }
 
-  $replacement .= '</div>';
+  // $replacement .= '</div>';
   return $replacement;
 }

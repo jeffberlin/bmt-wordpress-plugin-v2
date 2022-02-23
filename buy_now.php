@@ -30,6 +30,6 @@ function print_bmt_buy_now_button_for_product($product_id, $vendor_cid, $atts = 
     }
   }
 
-  $replacement .= '</div>';
+  // $replacement .= '</div>';
   return $replacement;
 }

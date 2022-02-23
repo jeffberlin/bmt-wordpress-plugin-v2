@@ -32,7 +32,7 @@ function print_bmt_add_cart_button_for_product($product_id, $atts = array()) {
     }
   }
 
-  $replacement .= '</div>';
+  // $replacement .= '</div>';
   return $replacement;
 }
 
@@ -66,6 +66,6 @@ function print_bmt_add_show_cart_button_for_product($product_id, $atts = array()
     }
   }
 
-  $replacement .= '</div>';
+  // $replacement .= '</div>';
   return $replacement;
 }
